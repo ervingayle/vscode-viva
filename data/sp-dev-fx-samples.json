@@ -717,8 +717,8 @@
         "SharePoint"
       ],
       "createDate": "2023-07-02",
-      "updateDate": "2023-07-02",
-      "version": "1.16.1",
+      "updateDate": "2025-05-25",
+      "version": "1.20.0",
       "componentType": "extension",
       "extensionType": "ApplicationCustomizer",
       "sampleGalerry": "sp-dev-fx-extensions",
@@ -811,6 +811,29 @@
       "createDate": "2018-03-28",
       "updateDate": "2024-10-05",
       "version": "1.20.0",
+      "componentType": "extension",
+      "extensionType": "ApplicationCustomizer",
+      "sampleGalerry": "sp-dev-fx-extensions",
+      "sampleType": "samples"
+    },
+    {
+      "name": "pnp-sp-dev-spfx-extensions-react-YOUR-SOLUTION-NAME-GOES-HERE",
+      "title": "Microsoft 365 Service Health Extension",
+      "url": "https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/YOUR-SOLUTION-NAME-GOES-HERE",
+      "description": "This extension provides real-time monitoring of Microsoft 365 service health directly within your SharePoint environment. It enables users to quickly check the availability status of core M365 services, helping organizations stay informed about outages or incidents.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-application-m365-service-health/assets/m365ServiceHealth01.png",
+      "authors": [
+        {
+          "name": "João Mendes",
+          "pictureUrl": "https://github.com/joaojmendes.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2021-05-24",
+      "updateDate": "2021-05-24",
+      "version": "1.21.1",
       "componentType": "extension",
       "extensionType": "ApplicationCustomizer",
       "sampleGalerry": "sp-dev-fx-extensions",
@@ -2055,6 +2078,29 @@
       "version": "1.20.0",
       "componentType": "extension",
       "extensionType": "ListViewCommandSet",
+      "sampleGalerry": "sp-dev-fx-extensions",
+      "sampleType": "samples"
+    },
+    {
+      "name": "pnp-sp-dev-spfx-extensions-react-copilot-aprils-fool",
+      "title": "Copilot April's Fool",
+      "url": "https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-copilot-aprils-fool",
+      "description": "An extention to privide a simple approach to display custom messages in SharePoint Online.",
+      "image": "https://github.com/pnp/sp-dev-fx-extensions/raw/main/samples/react-copilot-aprils-fool/assets/sample.png",
+      "authors": [
+        {
+          "name": "Valeras Narbutas",
+          "pictureUrl": "https://github.com/ValerasNarbutas.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-03-23",
+      "updateDate": "2025-03-23",
+      "version": "1.20.0",
+      "componentType": "extension",
+      "extensionType": "ApplicationCustomizer",
       "sampleGalerry": "sp-dev-fx-extensions",
       "sampleType": "samples"
     },
@@ -4281,6 +4327,29 @@
       "sampleType": "samples"
     },
     {
+      "name": "pnp-sp-dev-spfx-web-parts-react-carbon-footprint-calculator",
+      "title": "Carbon Footprint Calculator",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-carbon-footprint-calculator",
+      "description": "This SharePoint Framework (SPFx) web part provides users with an interactive calculator to estimate their monthly carbon footprint.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-carbon-footprint-calculator/assets/sample.png",
+      "authors": [
+        {
+          "name": "João LIVIO",
+          "pictureUrl": "https://github.com/jtlivio.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-05-08",
+      "updateDate": "2025-05-08",
+      "version": "1.21.1",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
       "name": "pnp-sp-dev-spfx-web-parts-react-carousel",
       "title": "Carousel Web Part",
       "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-carousel",
@@ -4654,7 +4723,7 @@
         "SharePoint"
       ],
       "createDate": "2025-01-09",
-      "updateDate": "2025-01-10",
+      "updateDate": "2025-05-16",
       "version": "1.20.0",
       "componentType": "webpart",
       "extensionType": null,
@@ -5307,7 +5376,7 @@
         "SharePoint"
       ],
       "createDate": "2025-04-27",
-      "updateDate": "2025-04-27",
+      "updateDate": "2025-05-04",
       "version": "1.20.0",
       "componentType": "webpart",
       "extensionType": null,
@@ -6111,8 +6180,8 @@
         "SharePoint"
       ],
       "createDate": "2021-09-17",
-      "updateDate": "2025-01-10",
-      "version": "1.20.0",
+      "updateDate": "2025-05-26",
+      "version": "1.21.1",
       "componentType": "webpart",
       "extensionType": null,
       "sampleGalerry": "sp-dev-fx-webparts",
@@ -6665,7 +6734,7 @@
       ],
       "createDate": "2021-03-17",
       "updateDate": "2025-04-02",
-      "version": "1.20.0",
+      "version": "1.21.1",
       "componentType": "webpart",
       "extensionType": null,
       "sampleGalerry": "sp-dev-fx-webparts",
@@ -7360,6 +7429,29 @@
       "sampleType": "samples"
     },
     {
+      "name": "pnp-sp-dev-spfx-web-parts-react-migrate-settings-approot",
+      "title": "SPFx Legacy App Files Browser",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-migrate-settings-approot",
+      "description": "A SharePoint Framework web part for browsing and viewing files in the legacy 'SharePoint Online Client Extensibility Web Application Principal' folder using native SPFx MSGraphClientV3.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-migrate-settings-approot/assets/migrate-personal-settings-01.png",
+      "authors": [
+        {
+          "name": "Paolo Pialorsi",
+          "pictureUrl": "https://github.com/paolopia.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-07-09",
+      "updateDate": "2025-07-09",
+      "version": "1.21.1",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
       "name": "pnp-sp-dev-spfx-web-parts-react-minesweeper",
       "title": "Minesweeper Web Part",
       "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-minesweeper",
@@ -7521,8 +7613,8 @@
         "SharePoint"
       ],
       "createDate": "2024-03-16",
-      "updateDate": "2024-11-01",
-      "version": "1.20.0",
+      "updateDate": "2025-05-01",
+      "version": "1.21.0",
       "componentType": "webpart",
       "extensionType": null,
       "sampleGalerry": "sp-dev-fx-webparts",
@@ -8425,6 +8517,29 @@
       "sampleType": "samples"
     },
     {
+      "name": "pnp-sp-dev-spfx-web-parts-react-people-slick",
+      "title": "React People Slick",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-people-slick",
+      "description": "Show a list of people using react-slick",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-people-slick/assets/react-people-slick.gif",
+      "authors": [
+        {
+          "name": "Lew Chin Hoong",
+          "pictureUrl": "https://github.com/ChinHoongLew.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-07-08",
+      "updateDate": "2025-07-08",
+      "version": "1.21.1",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
       "name": "pnp-sp-dev-spfx-web-parts-react-peoplepicker",
       "title": "People Picker Web Part",
       "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-peoplepicker",
@@ -8959,6 +9074,33 @@
       "sampleType": "samples"
     },
     {
+      "name": "pnp-sp-dev-spfx-web-parts-react-public-holidays-global",
+      "title": "Public Holidays Global",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-public-holidays-global",
+      "description": "Displays public holidays for multiple countries and years.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-public-holidays-global/assets/sample.png",
+      "authors": [
+        {
+          "name": "João Livio",
+          "pictureUrl": "https://github.com/jtlivio.png"
+        },
+        {
+          "name": "Create a new issue",
+          "pictureUrl": "https://github.com/pnp/sp-dev-fx-webparts/issues/new.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-06-17",
+      "updateDate": "2025-06-17",
+      "version": "1.20.0",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
       "name": "pnp-sp-dev-spfx-web-parts-react-questions-and-answers",
       "title": "Questions and Answers Web Part",
       "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-questions-and-answers",
@@ -9014,14 +9156,18 @@
         {
           "name": "Venkadesh Sundaramurthy",
           "pictureUrl": "https://github.com/VenkadeshSundaramurthy.png"
+        },
+        {
+          "name": "Adam Wójcik",
+          "pictureUrl": "https://github.com/Adam-it.png"
         }
       ],
       "tags": [
         "SharePoint"
       ],
       "createDate": "2024-08-11",
-      "updateDate": "2024-08-11",
-      "version": "1.19.0",
+      "updateDate": "2025-07-18",
+      "version": "1.21.1",
       "componentType": "webpart",
       "extensionType": null,
       "sampleGalerry": "sp-dev-fx-webparts",
@@ -9721,6 +9867,52 @@
       ],
       "createDate": "2025-01-27",
       "updateDate": "2025-01-27",
+      "version": "1.20.0",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
+      "name": "pnp-sp-dev-spfx-web-parts-react-sp-countdown-timer",
+      "title": "Countdown Timer Web Part",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-sp-countdown-timer",
+      "description": "This SharePoint Framework (SPFx) web part displays a countdown timer for upcoming events from a SharePoint list. It helps organizations keep users informed about important dates and deadlines by showing a live countdown for each event.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-sp-countdown-timer/assets/screenshot.png",
+      "authors": [
+        {
+          "name": "Sudeep Ghatak",
+          "pictureUrl": "https://github.com/sudeepghatak.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2024-12-25",
+      "updateDate": "2024-12-31",
+      "version": "1.20.0",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
+      "name": "pnp-sp-dev-spfx-web-parts-react-sp-emp-recognition",
+      "title": "rEmployee Recognition",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-sp-emp-recognition",
+      "description": "This SharePoint Framework (SPFx) web part enables organizations to celebrate employee achievements and contributions through a modern recognition system. Users can easily nominate colleagues for various types of recognition and engage with these recognitions through social reactions.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-sp-emp-recognition/assets/Add recognition.png",
+      "authors": [
+        {
+          "name": "Sudeep Ghatak",
+          "pictureUrl": "https://github.com/sudeepghatak.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-04-20",
+      "updateDate": "2025-04-20",
       "version": "1.20.0",
       "componentType": "webpart",
       "extensionType": null,
@@ -10596,6 +10788,29 @@
       "createDate": "2017-05-08",
       "updateDate": "2017-05-08",
       "version": "1.11.0",
+      "componentType": "webpart",
+      "extensionType": null,
+      "sampleGalerry": "sp-dev-fx-webparts",
+      "sampleType": "samples"
+    },
+    {
+      "name": "pnp-sp-dev-spfx-web-parts-react-ticket-mgnt",
+      "title": "Ticket Management App",
+      "url": "https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-ticket-mgnt",
+      "description": "This SharePoint web part is a ticket management system with a modern, responsive design. It includes a dashboard, personal view, new ticket form, and a detailed ticket view. Tickets can be configured with metadata like priority and status. The system integrates with SharePoint for assignments and permissions, stores data in a SharePoint list, and provides real-time updates. Built with React, TypeScript, and Fluent UI, it maintains SharePoint's look and feel while offering advanced functionality for managing issues or requests.",
+      "image": "https://github.com/pnp/sp-dev-fx-webparts/raw/main/samples/react-ticket-mgnt/assets/new ticket.png",
+      "authors": [
+        {
+          "name": "Sudeep Ghatak",
+          "pictureUrl": "https://github.com/sudeepghatak.png"
+        }
+      ],
+      "tags": [
+        "SharePoint"
+      ],
+      "createDate": "2025-06-13",
+      "updateDate": "2025-06-13",
+      "version": "1.20.0",
       "componentType": "webpart",
       "extensionType": null,
       "sampleGalerry": "sp-dev-fx-webparts",
